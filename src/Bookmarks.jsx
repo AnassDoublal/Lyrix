@@ -68,7 +68,7 @@ const Bookmarks = () => {
         <h1 className="Bookmarks_SavedLyrics">Saved Lyrics</h1>
 
         {bookmarks.length === 0 ? (
-          <p>No bookmarked songs yet.</p>
+          <p className="Bookmarks_NoSavedSongs">No saved songs yet.</p>
         ) : (
           <BookmarkList
             bookmarks={bookmarks}
