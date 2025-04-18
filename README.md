@@ -1,5 +1,5 @@
 # Lyrix
-A user-friendly website to view lyrics from millions of songs !
+A user-friendly website to view lyrics from millions of songs!
 
 ## APIs used
 - Spotify: https://developer.spotify.com/ -> Tracks
@@ -14,8 +14,8 @@ A user-friendly website to view lyrics from millions of songs !
 - Get recommended tracks
 
 ## Spotify instructions
-If you have a Spotify account, make sure to log into it on the same browser. This will allow you to play the whole duration of the tracks!
-Don't have a Spotify account? No problem! You will still have access to 30-second previews of the tracks.
+If you have a Spotify account, make sure to log into it on the same browser. This will allow you to play the whole duration of the tracks! <br/>
+Don't have a Spotify account? No problem! You will still have access to 30-second previews of the tracks. <br/>
 (Note that you MIGHT require premium membership even with a Spotify account, this part hasn't been tested).
 
 ## Required packages
