@@ -1,8 +1,27 @@
-# React + Vite
+# Lyrix
+A user-friendly website to view lyrics from millions of songs! https://anassdoublal.github.io/Lyrix/ <br/> 
+Please read through this document as it may contain relevant information for you.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## APIs used
+- Spotify: https://developer.spotify.com/ -> Tracks
+- LRCLIB: https://lrclib.net/docs -> Lyrics
 
-Currently, two official plugins are available:
+## Features
+- Search for a track by name or artist
+- Have the possibility to load more tracks on search
+- Play the embedded tracks
+- Save tracks for future access
+- Get access to full lyrics
+- Get recommended tracks
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Spotify instructions
+If you have a Spotify account, make sure to log into it on the same browser. This will allow you to play the whole duration of the tracks! <br/>
+Don't have a Spotify account? No problem! You will still have access to 30-second previews of the tracks. <br/>
+(Note that you MIGHT require premium membership even with a Spotify account, this part hasn't been tested).
+
+## Required packages
+The following packages were installed during the development of the project:
+- axios
+- cors
+- gh-pages
+- react-router-dom
