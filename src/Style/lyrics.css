@@ -1,0 +1,57 @@
+body{
+    background-color: aliceblue;
+}
+
+.title{
+    margin-top: 2em;
+    margin-left: 1.5em;
+}
+
+iframe{
+    margin-left: 3em;
+}
+
+.lyrics{
+    font-size: 1.4em;
+    margin-left: 3em;
+}
+
+.recommendationHeader{
+    margin-top: 2em;
+    margin-left: 2.25em;
+}
+
+.recommendationTitle{
+    font-size: 1.1em;
+    color: black;
+    text-decoration: none;
+}
+
+.lyrics_subheader{
+    display: flex;
+}
+
+.lyrics_subheader button{
+    margin-top: 5.2em !important;
+}
+
+.btn{
+    margin-left: 4em;
+    margin-top: 2em;
+    height: 2em;
+    padding: 0 1em;
+    border-radius: 20px;
+    background: aliceblue;
+    cursor: pointer;
+    transition: .1s;
+}
+
+.btn:hover{
+    background: #000;
+    color: aliceblue;
+    transition: .1s;
+}
+
+.removeBtn{
+    margin: .5em 0;
+}
