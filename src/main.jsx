@@ -7,7 +7,7 @@ import {
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter basename="/Song-Lyrics/">
+    <BrowserRouter basename="/Lyrix/">
       <App />
     </BrowserRouter>
   </StrictMode>
