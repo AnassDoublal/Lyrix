@@ -1,5 +1,5 @@
 # Lyrix
-A user-friendly website to view lyrics from millions of songs! https://anassdoublal.github.io/Lyrix/ <br/> 
+A user-friendly website to view lyrics from millions of songs! https://anassdoublal.github.io/Lyrix/. <br/> 
 Please read through this document as it may contain relevant information for you.
 
 ## APIs used
